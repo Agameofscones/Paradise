@@ -1,10 +1,10 @@
-/datum/map/delta
-	name = "Delta"
-	full_name = "NSS Kerberos"
+	/datum/map/delta
+	name = "Brody"
+	full_name = "Adrien Brody Singulo"
 
-	station_name  = "NSS Kerberos"
-	station_short = "Kerberos"
-	dock_name     = "NAS Trurl"
-	company_name  = "Nanotrasen"
-	company_short = "NT"
-	starsys_name  = "Epsilon Eridani "
+	station_name  = "Adrien Brody's Singulo"
+	station_short = "Brody's Singulo"
+	dock_name     = "Brody Space Control"
+	company_name  = "Nanobroden"
+	company_short = "AB"
+	starsys_name  = "Adrieno Brodiloni"

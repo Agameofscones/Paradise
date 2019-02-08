@@ -80,13 +80,13 @@
 
 	var/server
 	var/banappeals
-	var/wikiurl = "http://example.org"
-	var/forumurl = "http://example.org"
-	var/rulesurl = "http://example.org"
-	var/githuburl = "http://example.org"
-	var/donationsurl = "http://example.org"
-	var/repositoryurl = "http://example.org"
-	var/discordurl = "http://example.org"
+	var/wikiurl = "https://en.wikipedia.org/wiki/Adrien_Brody"
+	var/forumurl = "https://www.imdb.com/name/nm0004778/"
+	var/rulesurl = "https://www.youtube.com/watch?v=ygI-2F8ApUM"
+	var/githuburl = "https://github.com/ParadiseSS13/Paradise"
+	var/donationsurl = "https://www.youtube.com/watch?v=ygI-2F8ApUM"
+	var/repositoryurl = "https://www.youtube.com/watch?v=ygI-2F8ApUM"
+	var/discordurl = "https://www.youtube.com/watch?v=ygI-2F8ApUM"
 
 	var/overflow_server_url
 	var/forbid_singulo_possession = 0
@@ -393,10 +393,10 @@
 
 				if("githuburl")
 					config.githuburl = value
-				
+
 				if("discordurl")
 					config.discordurl = value
-				
+
 				if("donationsurl")
 					config.donationsurl = value
 

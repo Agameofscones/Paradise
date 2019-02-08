@@ -1,10 +1,10 @@
 /datum/map/cyberiad
-	name = "Cyberiad"
-	full_name = "NSS Cyberiad"
+	name = "Brode-iad"
+	full_name = "NSS Brody Land"
 
-	station_name  = "NSS Cyberiad"
-	station_short = "Cyberiad"
-	dock_name     = "NAS Trurl"
-	company_name  = "Nanotrasen"
-	company_short = "NT"
-	starsys_name  = "Epsilon Eridani "
+	station_name  = "NSS Brody Land"
+	station_short = "Brody Land"
+	dock_name     = "Brody Space Control"
+	company_name  = "Nanobroden"
+	company_short = "AB"
+	starsys_name  = "Adrieno Brodiloni"
