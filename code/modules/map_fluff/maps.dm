@@ -1,12 +1,12 @@
 var/datum/map/using_map = new USING_MAP_DATUM
 
 /datum/map
-	var/name = "Unnamed Map"
-	var/full_name = "Unnamed Map"
+	var/name = "Brody"
+	var/full_name = "Adrien Brody Singulo"
 
-	var/station_name  = "BAD Station"
-	var/station_short = "Baddy"
-	var/dock_name     = "THE PirateBay"
-	var/company_name  = "BadMan"
-	var/company_short = "BM"
-	var/starsys_name  = "Dull Star"
+	var/station_name  = "Adrien Brody's Singulo"
+	var/station_short = "Brody's Singulo"
+	var/dock_name     = "A Lonely G3 MacBook In Space"
+	var/company_name  = "Nanobroden"
+	var/company_short = "Adrien Brody Inc."
+	var/starsys_name  = "Adrieno Brodiloni"

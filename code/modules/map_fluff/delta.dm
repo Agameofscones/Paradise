@@ -2,7 +2,7 @@
 	name = "Brody"
 	full_name = "Adrien Brody Singulo"
 
-	station_name  = "Adrien Brody's Singulo"
+	station_name  = "Adrien Brody Singulo"
 	station_short = "Brody's Singulo"
 	dock_name     = "Brody Space Control"
 	company_name  = "Nanobroden"
